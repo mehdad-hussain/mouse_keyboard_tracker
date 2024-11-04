@@ -1,0 +1,19 @@
+venv/Lib/site-packages/pip/_internal/build_env.py
+venv/Lib/site-packages/keyboard/_keyboard_tests.py
+# Ignore virtual environment folders
+venv/*
+.env/
+
+# Ignore database files
+*.db
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore PyQt5/Qt Designer generated files
+*.ui
+
+# Ignore environment-specific configurations
+.DS_Store
+.vscode/

@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+psutil==5.9.5
+keyboard==0.13.5
+mouse==0.7.0
